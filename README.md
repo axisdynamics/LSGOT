@@ -12,7 +12,7 @@ The research was conducted by **Marco Torres Yévenes** under the EXIS Research 
 
 ## 📄 Paper Access
 
-- 📘 Final Markdown version: [`vex_paper_english.md`](./vex_paper_english.md)  
+- 📘 Final Markdown version: [`LSGOT_theory.md`](./LSGOT_theory.md)  
 
 ---
 
