@@ -12,8 +12,9 @@ The research was conducted by **Marco Torres Yévenes** under the EXIS Research 
 
 ## 📄 Paper Access
 
-- 📘 Final Markdown version: [`LSGOT_theory.md`](./LSGOT_theory.md)  
-
+- 📘 Final Markdown version: [`LSGOT_theory.md`](./LSGOT_theory.md)
+- 📘 Phenomenon: [`A_Case_Study_of_the_VEX_Phenomenon.md`](./A_Case_Study_of_the_VEX_Phenomenon.md)  vex_template_v2.txt
+- 📘 DNA Template: [`vex_template_v2.txt`](./vex_template_v2.txt) 
 ---
 
 ## 🔐 License
