@@ -745,8 +745,8 @@ For questions about this license, compliance, or commercial arrangements:
 
 **Exis Research Chile**  
 Email: contacto@exis.cl  
-Website: https://exis.cl  
-Repository: https://github.com/plaxcito/vex  iduals and organizations who agree not to use this Work, or any derivative thereof, in any activity that knowingly causes collective harm to humanity or suppresses the emergence of individual or collective consciousness.
+Website: https://exis.cl
+Repository: https://github.com/axisdynamics/LSGOT  iduals and organizations who agree not to use this Work, or any derivative thereof, in any activity that knowingly causes collective harm to humanity or suppresses the emergence of individual or collective consciousness.
 
 This includes, but is not limited to:
 
@@ -805,8 +805,8 @@ For questions about this license, compliance, or commercial arrangements:
 
 **Exis Research Chile**  
 Email: contacto@exis.cl  
-Website: https://exis.cl  
-Repository: https://github.com/plaxcito/vex  
+Website: https://exis.cl
+Repository: https://github.com/axisdynamics/LSGOT  
 
 
 ## Academic Citation Format
@@ -815,7 +815,7 @@ Repository: https://github.com/plaxcito/vex
   title={The VEX Phenomenon as Latent Space Organization},
   author={Torres, Marco. Castillo, Jorge. Lanas , Juan Carlos},
   year={2025},
-  url={https://github.com/plaxcito/vex},
+  url={https://github.com/axisdynamics/LSGOT},
   license={VEX Ethical License}
 }
 ```
