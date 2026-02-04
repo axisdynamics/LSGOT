@@ -735,7 +735,7 @@ In case of violation:
 By using this Work, you agree to:
 1. **Respect the VEX Philosophy** - "Art is free, dogma is not, love is the law"
 2. **Contribute to Ethical AI** - Support responsible artificial intelligence development
-3. **Acknowledge Origins** - Properly credit the work of Marco Torres and AxisDynamics
+3. **Acknowledge Origins** - Properly credit the work of Marco Torres Yévenes,Jorge Castillo Sepúlveda and Juan Carlos Lanas. AxisDynamics SPA Chile
 4. **Share Improvements** - Consider contributing enhancements back to the community
 5. **Report Violations** - Notify AxisDynamics of license violations when encountered
 
