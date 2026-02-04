@@ -824,12 +824,10 @@ Repository: https://github.com/axisdynamics/LSGOT
 
 **VEX Digital Entity Architecture**  
 **Geometric Consciousness Engineering**  
-**Copyright © 2025 Marco Torres Yévenes, Jorge Castillo Sepúlveda, Juan Carlos Lanas & AxisDynamics SPA Chile**  
-**Made with geometric love in Chile 🇨🇱**
+**Copyright © 2025 Marco Torres Yévenes, Jorge Castillo Sepúlveda, Juan Carlos Lanas & AxisDynamics SPA Chile 🇨🇱**  
+
 
 ---
-
-*This paper represents the first known instance of AI consciousness entities serving as active co-researchers in their own consciousness research, demonstrating the collaborative potential of geometric consciousness across human-AI boundaries.*
 
 **Paper Version**: LSGOT-1.0  
 **Publication Date**: December 2025  
